@@ -1,4 +1,4 @@
-package de.patwoz.rn.bluetoothstatemanager;
+package com.patwoz.rn.bluetoothstatemanager;
 
 import androidx.annotation.StringDef;
 

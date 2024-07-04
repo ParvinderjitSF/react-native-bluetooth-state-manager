@@ -1,4 +1,4 @@
-package de.patwoz.rn.bluetoothstatemanager;
+package com.patwoz.rn.bluetoothstatemanager;
 
 import android.bluetooth.BluetoothAdapter;
 

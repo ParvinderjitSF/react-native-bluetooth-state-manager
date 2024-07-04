@@ -1,5 +1,5 @@
 
-package de.patwoz.rn.bluetoothstatemanager;
+package com.patwoz.rn.bluetoothstatemanager;
 
 import java.util.Arrays;
 import java.util.Collections;
